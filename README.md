@@ -1,16 +1,18 @@
-## Hi there 👋
+## **Hi there 👋, My Name is Divyanshi Singh**
+Passionate and results-oriented full-stack web developer with over 5 years of combined professional and freelancing experience in web development, object-oriented programming, and database management. Seeking to leverage my technical expertise and problem-solving skills as a Web Solutions Engineer at Google to enhance the efficiency of the Global Business Organization through innovative tools and scalable solutions.
 
-<!--
-**16siyasingh/16siyasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Get in Touch☕** 
+* Gmail
+* Linkedin
 
-Here are some ideas to get you started:
+## **Skills and Experience**
+* 💻 HTML
+* 💻 CSS
+* 💻 PHP
+* 💻 Javascript
+* 💻 Python
+* 💻 C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Watch my Resume - [https://0virusdetect.github.io/0virusdetect/](https://16siyasingh.github.io/16siyasingh/)
+
+
